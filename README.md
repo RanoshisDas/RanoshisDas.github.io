@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/RanoshisDas/RanoshisDas/blob/main/rano.jpeg"  />
+  <img height="150" src="/rano.jpeg"  />
 </div>
 <h1 align="center">Hi 👋, I'm Ranoshis Das</h1>
 <h3 align="center">Passionate about Tech & there applications || Full Stack Developer | Fast Learner | Perfectionist</h3>
